@@ -16,7 +16,7 @@ const Ihab = {
   tools: {
                         vm: "LdPlayer",
                         ide: "visual studio code",
-                        editing: "premiere & efter effects"
+                        editing: "premiere & efter effects",
                         manipulation: "ps & illustrator"
                       },
  challenge: "I am doing challange to reach the senior degree in flutter in the possible shortest time"
