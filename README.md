@@ -3,7 +3,7 @@
 <p><em>Freelancer Full Stack Flutter Developer<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   
 
-[![Linkedin: Ihab](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ihabzaidi/)](https://www.linkedin.com/in/ihabzaidi/)
+[![Linkedin: Ihab](https://img.shields.io/badge/-Ihab Zaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ihabzaidi/)](https://www.linkedin.com/in/ihabzaidi/)
 [![GitHub Ihab](https://img.shields.io/github/followers/IhabZaidi?label=follow&style=social)](https://github.com/IhabZaidi)
 
 
