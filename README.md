@@ -28,7 +28,7 @@ const Ihab = {
 ---
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Dart & Flutter & python & Blockchain
+- 🌱 I’m currently learning Dart & Flutter Backend & python & Blockchain
 - 👯 I’m looking to collaborate on Google Flutter Team Inchallah
 - 🤔 I’m looking for help to take my skills to the next level
 - 💬 Ask me about ? just ask google :D
