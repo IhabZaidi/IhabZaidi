@@ -11,9 +11,8 @@
 
 ```javascript
 const Ihab = {
-  pronouns: "she" | "her",
-  code: [Flutter, Dart, Node Js, SQL server, Bloc / cubit,
-  Provider, visual basic, Blockchain],
+  code: [Flutter, Dart, MySQL, SQL server, Bloc / cubit,
+  Getx, Provider, Laravel, Node Js, visual basic, Blockchain],
   tools: {
                         vm: "LdPlayer",
                         ide: "visual studio code",
