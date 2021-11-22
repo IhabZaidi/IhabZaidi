@@ -11,8 +11,8 @@
 
 ```javascript
 const Ihab = {
-  code: [Flutter, Dart, MySQL, SQL server, Bloc / cubit,
-  Getx, Provider, Laravel, Node Js, visual basic, Blockchain],
+  code: [Flutter, Dart, Nuxt Js, Laravel, MySQL, SQL server, Bloc / cubit,
+  Getx, Provider, Node Js, visual basic, Blockchain],
   tools: {
                         vm: "LdPlayer",
                         ide: "visual studio code",
