@@ -12,7 +12,7 @@
 ```javascript
 const Ihab = {
   code: [Flutter, Dart, Nuxt Js, Laravel, MySQL, SQL server, Bloc / cubit,
-  Getx, Provider, Stackek, TypeScript, Node Js, visual basic, Solidity Blockchain],
+  Getx, Provider, Stacked, TypeScript, Node Js, visual basic, Solidity Blockchain],
   tools: {
                         vm: "LdPlayer",
                         ide: "visual studio code",
