@@ -1,0 +1,45 @@
+{
+    "article": [
+        {
+            "id": 1,
+            "article_title": "gg",
+            "article_description": "gg",
+            "article_image": "gg"
+        }
+    ],
+    "mobile": [
+        {
+            "id": 1,
+            "project_title": "gg",
+            "project_description": "gg",
+            "project_image": "gg",
+            "project_google": "gg",
+            "project_apple": "gg",
+            "project_huawei": "gg",
+            "project_design": "gg"
+        }
+    ],
+    "site": [
+        {
+            "id": 1,
+            "project_title": "gg",
+            "project_description": "gg",
+            "project_image": "gg",
+            "project_link": "gg",
+            "project_source": "gg",
+            "project_design": "gg"
+        }
+    ],
+    "software": [
+        {
+            "id": 1,
+            "project_title": "gg",
+            "project_description": "gg",
+            "project_image": "gg",
+            "project_google": "gg",
+            "project_apple": "gg",
+            "project_huawei": "gg",
+            "project_design": "gg"
+        }
+    ]
+}
