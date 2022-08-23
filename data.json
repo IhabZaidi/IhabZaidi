@@ -1,8 +1,14 @@
-{
-   "article":{
+[
+   {
       "id":1,
       "article_title":"gg",
       "article_description":"gg",
       "article_image":"gg"
+   },
+   {
+      "id":2,
+      "article_title":"tt",
+      "article_description":"tt",
+      "article_image":"tt"
    }
-}
+]
