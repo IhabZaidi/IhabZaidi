@@ -11,15 +11,16 @@
 
 ```javascript
 const Ihab = {
-  code: [Flutter, Dart, Nuxt Js, Laravel, MySQL, SQL server, Bloc / cubit,
-  Getx, Provider, Stacked, TypeScript, Node Js, visual basic, Solidity Blockchain],
+  code: [Flutter, Dart, Nuxt Js, Next Js, Laravel sanctum, TypeScript, Node Js,
+  Fast Api, visual basic, Flutter ML, MySQL, SQL server, Bloc / cubit,
+  Getx, Provider, Stacked],
   tools: {
-                        vm: "LdPlayer",
-                        ide: "visual studio code",
+                        os: "windows::macos",
+                        ide: "vs code",
                         editing: "premiere & efter effects",
                         manipulation: "ps & illustrator"
                       },
- challenge: "I am doing challange to reach the senior degree in flutter in the possible shortest time"
+ challenge: "I am doing challange to reach the senior degree as  possible shortest time"
 }
 ```
 
@@ -27,8 +28,8 @@ const Ihab = {
 
 ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Dart & Flutter Backend & python & Blockchain
+- 🔭 I’m currently working ...
+- 🌱 I’m currently learning React & Next js
 - 👯 I’m looking to collaborate on Google Flutter Team Inchallah
 - 🤔 I’m looking for help to take my skills to the next level
 - 💬 Ask me about ? just ask google :D
