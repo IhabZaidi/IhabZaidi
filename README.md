@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ihab Zaidi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Full Stack Flutter Developer<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Full Stack Developer<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   
 
 [![Linkedin: Ihab](https://img.shields.io/badge/-IhabZaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ihabzaidi/)](https://www.linkedin.com/in/ihabzaidi/)
@@ -11,9 +11,8 @@
 
 ```javascript
 const Ihab = {
-  code: [Flutter, Dart, Nuxt Js, Next Js, Laravel sanctum, TypeScript, Node Js,
-  Fast Api, visual basic, Flutter ML, MySQL, SQL server, Bloc / cubit,
-  Getx, Provider, Stacked],
+  code: [Flutter, Dart, Nuxt Js, Laravel sanctum, TypeScript, Node Js,
+  Golang, visual basic, Flutter ML, MySQL, SQL server, Python ],
   tools: {
                         os: "windows::macos",
                         ide: "vs code",
@@ -29,7 +28,7 @@ const Ihab = {
 ---
 
 - 🔭 I’m currently working ...
-- 🌱 I’m currently learning React & Next js
+- 🌱 I’m currently learning Web3 and Golang
 - 👯 I’m looking to collaborate on Google Flutter Team Inchallah
 - 🤔 I’m looking for help to take my skills to the next level
 - 💬 Ask me about ? just ask google :D
