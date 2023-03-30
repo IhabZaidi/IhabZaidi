@@ -11,8 +11,8 @@
 
 ```javascript
 const Ihab = {
-  code: [Flutter, Dart, Nuxt Js, Laravel sanctum, TypeScript, Node Js,
-  Golang, visual basic, Flutter ML, MySQL, SQL server, Python ],
+  code: [Flutter, Dart, Vue Js, Tailwind css, Nuxt Js, Laravel sanctum, TypeScript,
+  Node Js, Golang, visual basic, Flutter ML, MySQL, SQL server, Python ],
   tools: {
                         os: "windows::macos",
                         ide: "vs code",
